@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 5f5e9bf3d609c437fa8c5ab1b3833a30
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Museo W03
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6eb3d0ca2a438486fa62695d6e644927, type: 3}
+  - {fileID: 12800000, guid: 2f5426ff876f0461aa3d29e749bbc0f1, type: 3}
+  - {fileID: 12800000, guid: cd61992c421494eebaaef43ca96cf0c5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
